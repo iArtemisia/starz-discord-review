@@ -1,6 +1,6 @@
 # STARZ Ticket Bot — Discord Review Evidence
 
-[← Back to documentation](README.md)
+[← Back to documentation](README.md) · [Privacy Policy](ticket-bot-privacy-policy.md)
 
 ## Message Content Intent
 
