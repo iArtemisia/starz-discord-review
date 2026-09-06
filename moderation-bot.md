@@ -4,13 +4,13 @@
 
 ## Members Intent
 
-> **Screenshot placeholder:** Add a PC screenshot showing the automatic welcome behavior that requires access to server member events. No verified welcome screenshot has been linked here yet.
+The screenshot below shows the automatic welcome message posted by ModBot when a member joins.
+
+![ModBot automatic welcome message](Directory%20img.webp)
 
 ## Message Content Intent
 
-The first screenshot explains that players can type an exact directory topic title in chat. The second shows an ordinary `Spawn a Mini` message followed by the ModBot directory response.
-
-![ModBot directory exact-title explanation](Directory%20img.webp)
+The screenshot below shows an ordinary `Spawn a Mini` message followed by the ModBot directory response.
 
 ![Ordinary Spawn a Mini message and ModBot response](Directory%20response.png)
 
