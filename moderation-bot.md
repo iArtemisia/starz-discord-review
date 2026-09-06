@@ -10,9 +10,9 @@
 
 The first screenshot explains that players can type an exact directory topic title in chat. The second shows an ordinary `Spawn a Mini` message followed by the ModBot directory response.
 
-![ModBot directory exact-title explanation](Directory%20img)
+![ModBot directory exact-title explanation](Directory%20img.webp)
 
-![Ordinary Spawn a Mini message and ModBot response](Directory%20response)
+![Ordinary Spawn a Mini message and ModBot response](Directory%20response.png)
 
 ## Add evidence
 
