@@ -12,4 +12,6 @@ Screenshots and review evidence will be added here.
 
 ## STARZ Moderation Bot
 
+- [Privacy Policy](privacy-policy.md)
+
 Screenshots and review evidence will be added here.
