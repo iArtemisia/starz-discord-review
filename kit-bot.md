@@ -1,6 +1,6 @@
 # STARZ Kit Bot — Discord Review Evidence
 
-[← Back to documentation](README.md)
+[← Back to documentation](README.md) · [Privacy Policy](kit-bot-privacy-policy.md)
 
 ## Members Intent
 
